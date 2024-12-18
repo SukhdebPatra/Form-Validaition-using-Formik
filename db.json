@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "Useremail": "johndoe@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "Useremail": "janesmith@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "nirj Doe",
+      "Useremail": "nraj@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Sukhdeb Smith",
+      "Useremail": "sukhdeb@gmail.com"
+    },
+    {
+      "name": "Ritik kumar",
+      "email": "Ritik@gmil.com",
+      "id": "6"
+    },
+   
+    {
+      "id": "10",
+      "name": "uhfiu",
+      "Useremail": "sfs"
+    }
+  ]
+}
